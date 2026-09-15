@@ -1,86 +1,53 @@
 # Hi, I'm Youssef Kabbary 👋
 
-### AI Engineer | Computer Vision | Real-Time ML Systems | Edge AI
+### AI & Computer Vision Engineer · Real-time detection & tracking · Embedded AI
 
-I’m an AI Engineer focused on building **production-ready intelligent systems** across **Computer Vision, Deep Learning, Edge AI, and real-time ML pipelines**.
+R&D Engineer at Smart Technology, Alexandria. B.Sc. in Artificial Intelligence, Pharos University in Alexandria (2025).
 
-My work combines **research-level model design** with **software engineering architecture**, transforming ideas into deployable AI products for **smart cities, surveillance, healthcare, robotics, and embedded systems**.
-
----
-
-## 🚀 What I Build
-- 🧠 Real-time Computer Vision systems
-- 👁️ Crowd intelligence & surveillance AI
-- 📊 Forecasting and anomaly detection pipelines
-- ⚡ Multi-threaded ML inference systems
-- 🛰️ Edge AI for Raspberry Pi & embedded devices
-- 🏥 AI solutions for healthcare and smart monitoring
-- 🤖 Robotics + autonomous sensing systems
+I build computer vision systems that run in real time — and I measure them before I make claims about them.
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured project
 
-### 🕌 Mosque Crowd Intelligence & Surveillance System
-Enterprise-grade AI crowd management platform for large mosques and event venues.
+### 👥 [Crowd Master — real-time crowd analytics](https://github.com/YoussefKabbary/Crowd-Intelligence-System)
 
-### Key highlights
-- YOLOv8x + pose + MobileNetV3 multi-model fusion
-- 6-thread async real-time pipeline
-- Dense crowd head/body counting
-- Gate-based IN/OUT tracking
-- Transformer-based crowd forecasting
-- Heatmaps + anomaly detection
-- FastAPI deployment endpoints
-- Online learning & drift adaptation
+People counting, doorway entry/exit counting, zone occupancy and anomaly clips for CCTV, webcams, IP/RTSP cameras and phones.
 
-**Tech:** Python · PyTorch · OpenCV · YOLOv8 · FastAPI · Transformers
+- **v2 is an audited rebuild of my own v1:** 28 documented defects found and fixed
+- **43–72 ms per frame** (v1: 95–232 ms) and **0.6 s** to the first useful frame (v1: 10.4 s), measured on a laptop RTX 3050
+- YOLOv8 body detection fused with YOLOv8-pose head points · ByteTrack · multi-threaded pipeline · FastAPI
+- Real side-by-side recording of v1 and v2 running on the same video, in the README
+- Detection accuracy on real footage is not yet benchmarked, and the repo says so
+
+**Tech:** Python · PyTorch · YOLOv8 · ByteTrack · OpenCV · FastAPI · CUDA
 
 ---
 
-### 🚁 ARC Drone — Autonomous AI Surveillance Drone
-Excellent-graded graduation project focused on **CNN-based real-time object detection on drone footage**.
+## 🧩 Other work
 
-### Key highlights
-- CNN detection model training
-- Raspberry Pi embedded deployment
-- GPS + sensor fusion
-- Autonomous navigation support
-- Edge AI inference pipeline
-
-**Tech:** Python · TensorFlow Lite · Raspberry Pi · OpenCV · IoT
+| Project | What it is | Tech |
+|---|---|---|
+| **SafeRoute AI** | Road-risk scoring API: Transformer accident predictor trained on 191k real crash records (AUC 0.628 on 47 unseen areas) plus a YOLOv8 pothole/crack detector | PyTorch · Transformers · YOLOv8 · FastAPI |
+| **MGICO operations platform** | Internal system for a piling contractor: 110 API routes, 42 tables, 190 automated tests | FastAPI · PostgreSQL · SQLAlchemy · pytest |
+| **Smart Aquarium IoT** | Arduino Nano controller with temperature control, ammonia sensing, automated feeding and Bluetooth monitoring, with a Windows desktop app | Arduino · Bluetooth · Python |
+| **AgliFly** | Graduation project: autonomous surveillance drone with CNN object detection running on a Raspberry Pi | Python · CNN · OpenCV · Raspberry Pi |
 
 ---
 
-## 🧠 Tech Stack
-### AI / ML
-`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV` `YOLOv8` `Transformers`
+## 🧠 Tech stack
 
-### Systems / Deployment
-`FastAPI` `REST APIs` `Threading` `Queue Pipelines` `Docker (learning)` `Git`
+**Computer vision & deep learning:** `PyTorch` `YOLOv8` `OpenCV` `ByteTrack` `TensorFlow` `Transformers` `Hugging Face` `scikit-learn`
 
-### Edge AI / Embedded
-`Raspberry Pi` `Arduino` `TensorFlow Lite` `IoT` `ONNX`
+**Deployment:** `FastAPI` `REST APIs` `ONNX Runtime` `CUDA / FP16` `Docker` `Git`
 
-### Languages
-`Python` `C++` `JavaScript` `MATLAB`
+**Embedded:** `Raspberry Pi` `Arduino` `ESP32` `STM32`
+
+**Languages:** `Python` `C++` `JavaScript` `SQL`
 
 ---
 
-## 🌍 Current Focus
-Currently building **enterprise-level crowd intelligence systems for smart mosques**, focused on:
-- Dense crowd analytics
-- Forecasting congestion
-- Safety anomaly alerts
-- Smart city deployment use cases
+## 📫 Connect
 
----
-
-## 📫 Connect With Me
-- 💼 LinkedIn: www.linkedin.com/in/youssef-kabbary-a989742a6
-- 📧 Email: Youssefkabbary1152003@gmail.com
-
----
-
-## ⚡ Fun Fact
-I enjoy building AI systems that bridge **research, deployment, and real-world impact**.
+- 💼 LinkedIn: [linkedin.com/in/youssef-kabbary](https://www.linkedin.com/in/youssef-kabbary)
+- 📧 Email: youssefkabbary1152003@gmail.com
