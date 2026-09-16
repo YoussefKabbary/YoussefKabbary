@@ -2,10 +2,10 @@
 
 ## Hi, I'm Youssef Kabbary
 
-**AI & Computer Vision Engineer** · R&D Engineer at Smart Technology, Alexandria
+**AI & Computer Vision Engineer** · R&D Engineer at Smart Technology, Alexandria<br>
 B.Sc. Artificial Intelligence, Pharos University in Alexandria (2025)
 
-I build computer vision systems that run in real time, and I measure them before I make claims about them.
+I build computer vision systems that run in real time, and I measure them before I make claims about them.<br>
 When a number can't be backed by a test yet, the README says so.
 
 <p>
