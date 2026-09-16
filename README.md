@@ -28,8 +28,8 @@ People counting, doorway entry/exit counting, zone occupancy and anomaly clips f
 
 | Project | What it is | Tech |
 |---|---|---|
-| **SafeRoute AI** | Road-risk scoring API: Transformer accident predictor trained on 191k real crash records (AUC 0.628 on 47 unseen areas) plus a YOLOv8 pothole/crack detector | PyTorch · Transformers · YOLOv8 · FastAPI |
-| **MGICO operations platform** | Internal system for a piling contractor: 110 API routes, 42 tables, 190 automated tests | FastAPI · PostgreSQL · SQLAlchemy · pytest |
+| **[SafeRoute AI](https://github.com/YoussefKabbary/SafeRoute-AI)** | Road-risk scoring API: AASHTO geometry measured from OpenStreetMap, a Transformer accident predictor trained on 191k real FARS crashes (AUC 0.628 on 47 unseen areas), Sentinel-2 hazard detection against the same road a year earlier, and a YOLOv8 pavement-defect detector. Every response names the models that actually ran | PyTorch · Transformers · YOLOv8 · FastAPI · Sentinel-2 |
+| **MGICO operations platform** | Internal system for a piling contractor: 141 API routes, 43 tables, 254 automated tests, Arabic RTL interface | FastAPI · PostgreSQL · SQLAlchemy · pytest |
 | **Smart Aquarium IoT** | Arduino Nano controller with temperature control, ammonia sensing, automated feeding and Bluetooth monitoring, with a Windows desktop app | Arduino · Bluetooth · Python |
 | **AgliFly** | Graduation project: autonomous surveillance drone with CNN object detection running on a Raspberry Pi | Python · CNN · OpenCV · Raspberry Pi |
 
