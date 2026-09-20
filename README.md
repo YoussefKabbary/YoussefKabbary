@@ -97,7 +97,7 @@ The tests are written around the risks: one account can never read another's row
 | Project | What it is | Tech |
 |---|---|---|
 | **AgliFly** | Graduation project, graded Excellent: autonomous surveillance drone with CNN object detection running on board a Raspberry Pi | Python · CNN · OpenCV · Raspberry Pi |
-| **Smart Aquarium IoT** | Arduino Nano controller with temperature control, ammonia sensing, automated feeding and Bluetooth monitoring, with a Windows desktop app | Arduino · Bluetooth · Python |
+| **[Smart Aquarium](https://github.com/YoussefKabbary/Smart-Aquarium)** | Arduino controller for an aquarium — turbidity sensing, a cleaning motor and a servo feeder over USB and HC-05 Bluetooth at once, with two Tkinter desktop apps on the same protocol: a standard panel and an animated edition for children | Arduino · Bluetooth · Python · Tkinter |
 
 ### 🧠 Stack
 
