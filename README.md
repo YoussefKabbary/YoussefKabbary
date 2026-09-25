@@ -9,6 +9,7 @@ I build computer vision systems that run in real time, and I measure them before
 When a number can't be backed by a test yet, the README says so.
 
 <p>
+  <a href="https://youssefkabbary.github.io"><img src="https://img.shields.io/badge/Portfolio-youssefkabbary.github.io-0A6A71?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/youssef-kabbary"><img src="https://img.shields.io/badge/LinkedIn-youssef--kabbary-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:youssefkabbary1152003@gmail.com"><img src="https://img.shields.io/badge/Email-youssefkabbary1152003%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Open_to-AI_%2F_Computer_Vision_roles-2EA043?style=flat-square" alt="Open to AI and computer vision roles">
