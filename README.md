@@ -128,3 +128,7 @@ The tests are written around the risks: one account can never read another's row
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+© 2026 Youssef Kabbary. All rights reserved. See [LICENSE](LICENSE).
