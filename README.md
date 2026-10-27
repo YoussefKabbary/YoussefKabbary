@@ -99,6 +99,7 @@ The tests are written around the risks: one account can never read another's row
 |---|---|---|
 | **AgliFly** | Graduation project, graded Excellent: autonomous surveillance drone with CNN object detection running on board a Raspberry Pi | Python · CNN · OpenCV · Raspberry Pi |
 | **[Smart Aquarium](https://github.com/YoussefKabbary/Smart-Aquarium)** | Arduino controller for an aquarium — turbidity sensing, a cleaning motor and a servo feeder over USB and HC-05 Bluetooth at once, with two Tkinter desktop apps on the same protocol: a standard panel and an animated edition for children | Arduino · Bluetooth · Python · Tkinter |
+| **[Bolt Control](https://github.com/YoussefKabbary/bolt-control)** | A Windows control panel I built for my R&D work: one app with six pages (car with drift, Otto, offline voice commands, LED, RGB, serial terminal), each with its own Arduino sketch, over USB or HC-05 Bluetooth | Python · Tkinter · Arduino · Bluetooth |
 
 ### 🧠 Stack
 
